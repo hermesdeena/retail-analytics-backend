@@ -3,8 +3,7 @@
 E-Commerce Revenue and Customer Analytics Backend API built on 541,909 real UK retail transactions (UCI Online Retail, CC BY 4.0).
 
 ## Status
-
-Week 1: Data profiling and Pandas ETL pipeline in progress.
+Data profiling and Pandas ETL pipeline in progress.
 
 ## Tech Stack
 
